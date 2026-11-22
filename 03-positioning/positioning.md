@@ -55,10 +55,3 @@ As a customer, I don't naturally connect "accessible" to "split payments."
 ### Final statement
 Tired of being the person who has to pay for everyone and chase friends for money? Roamly Groups lets groups book authentic local experiences together, with split payments, shared itineraries, and group coordination built directly into the booking experience.
 
-
-### Pressure test
-- **Test I ran:** _____
-- **What it revealed:** _____
-
-### Final statement
-_____
