@@ -95,7 +95,7 @@ Roamly's advantage is strongest when it delivers:
 
 ### Quick Dismiss
 
-> "Airbnb supports group bookings and messaging. Roamly Groups also helps the group split the payment, so one person doesn't have to pay for everyone upfront."
+Airbnb supports group bookings and messaging. But on top of that Roamly Groups also helps the group split the payment, so one person doesn't have to pay for everyone upfront.
 
 ### Landmine Questions
 
