@@ -7,19 +7,19 @@
 - **What success looks like:** A successful launch expands Roamly Groups' reach into a new audience segment and positions it as a trusted platform for groups of any size. This way it enhances brand credibility by creating a stronger two-sided marketplace: enhancing customer loyalty and attracting more vetted local experts that want to advertise their experiences in Roamly - giving the platform customers a bigger pool to choose from.
 
 ### Do the Research
-- **Signals of a real opportunity:** 
+**Signals of a real opportunity:** 
 - users are trying to coordinate larger group bookings across separate accounts, managing split payments by hand, syncing availability across several people, and aligning preferences for parties the product was never built to handle.
 - Users are trying to find workarounds but these are clumsy
 - Drop-off on attempts to book large group sessions is high
 
 Signals above suggest that there is market demand for large group bookings and that users are looking for Roamly to be the plafform where they book those.
 
-- **Top 5 possible segments:** - senior groups that travel together and need customized group experiences
+**Top 5 possible segments:** - senior groups that travel together and need customized group experiences
 - groups of friends, young adults aged 21 to 35, travelling together
 - travellers that want to book private group experiences
 - students going on an exchange program
 - company sponsored group events for employees
-- **How to size the opportunity:** To size this opportunity, I would want to understand the demographics and locations of users attempting to book large-group experiences, the typical group sizes, how often these booking attempts fail, and where customers go when they can't book through Roamly.
+**How to size the opportunity:** To size this opportunity, I would want to understand the demographics and locations of users attempting to book large-group experiences, the typical group sizes, how often these booking attempts fail, and where customers go when they can't book through Roamly.
 
 I would analyze Roamly's search, booking, and drop-off data, and supplement it with insights from competitor platforms, customer reviews, travel communities, and social media discussions.
 
@@ -37,6 +37,7 @@ They are highly active on social media and travel communities, making them more 
 
 - **Chosen motion:** Hybrid
 - **Why:** The recommended GTM strategy is a hybrid approach, with Product-Led Growth (PLG) as the primary motion and Community-Led Growth (CLG) as a supporting motion.
+
 PLG should lead because demand for large-group bookings already exists, as evidenced by the high drop-off rate. The key opportunity is to remove product barriers preventing users from completing these bookings, allowing Roamly to capture more value from its existing customer base, increase conversion rates, and expand customer usage.
 
 CLG should complement this motion because Roamly's brand is built on trust and authenticity within travel communities. Travelers rely heavily on social media, review platforms, and travel forums when choosing experiences. By enabling group bookings, Roamly can generate more shared experiences, user-generated content, and referrals, driving awareness and attracting new customers through word of mouth.
@@ -97,7 +98,7 @@ Young adult friend groups are more likely to seek out these types of experiences
 
 ## 5. V1 GTM strategy one-pager
 
-Target Segment
+**Target Segment**
 Primary Segment
 
 Groups of friends aged 21-35 traveling together
