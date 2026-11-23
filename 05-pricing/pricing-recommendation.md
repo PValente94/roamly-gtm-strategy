@@ -15,7 +15,7 @@
   - Good:
   - Name - Solo; Who's it for - single travellers booking their own local experience or the one group organizer that books it all for its group of friends; Rough price: 3% fee on top of local experience advertised price
   - Better:
-  - Name - Group's Favorite; Who's it for - groups that want to book an experience leveraging split payments and booking details like shared itineraries; Rough price: 5% fee on top of local experience advertised price
+  - Name - Groups' Favorite; Who's it for - groups that want to book an experience leveraging split payments and booking details like shared itineraries; Rough price: 5% fee on top of local experience advertised price
   - Best:
   - Name - Premium; Who's it for - groups that want a semi-automated booking experience, with personalized travel recommendations based on group preferences and planned travel routes, all without losing perks of "Group's favourite"; Rough price: 8% fee on top of local experience advertised price
 
