@@ -172,18 +172,12 @@ Young travelers often have fewer financial resources but are highly comfortable 
 
 ### I Am Betting That Roamly Groups Wins By
 
-> Becoming the easiest way for groups of friends to discover, coordinate, and pay for authentic local experiences.
+Becoming the easiest way for groups of friends to discover, coordinate, and pay for authentic local experiences.
 
 By eliminating the need for a single organizer to manage bookings and front the entire cost, Roamly can unlock a major source of unmet demand while staying true to its community-driven roots and focus on locally curated experiences.
 
 ### To Make This Bet, I Am Deprioritizing
 
-> I will prioritize segments and experiences that reinforce Roamly's identity as a marketplace for authentic local discovery, even if that means forgoing larger opportunities in more commoditized travel categories.
+My trade-off is clear: I will prioritize friend groups seeking authentic, locally curated experiences, even if that means deprioritizing larger opportunities such as corporate offsites, team-building events, bachelor and bachelorette parties, or other highly commercialized group travel categories. Even if future data comes to suggest these segments offer a larger addressable market, pursuing them would pull Roamly away from its core differentiator: helping travelers discover unique local experiences through trusted recommendations and community-driven discovery. 
 
-I am deliberately choosing:
-
-- Relevance over scale
-- Differentiation over breadth
-- Community-led discovery over highly commercialized travel inventory
-
-This approach preserves the unique value proposition that makes Roamly distinctive in the market.
+I am choosing differentiation and brand alignment over market breadth.
