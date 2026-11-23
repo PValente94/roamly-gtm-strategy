@@ -235,7 +235,7 @@ The AI suggested corporate groups may have:
 
 I disagree for two reasons:
 
-### 1. The Data Supports This Segment
+### The Data Supports This Segment
 
 We have data showing:
 
@@ -244,7 +244,7 @@ We have data showing:
 
 This makes them attractive not only from a marketing perspective but also from a commercial perspective.
 
-### 2. The Segment Aligns with Roamly's Brand
+### The Segment Aligns with Roamly's Brand
 
 While corporate offsites or bachelor parties may represent larger markets, they are less aligned with:
 
