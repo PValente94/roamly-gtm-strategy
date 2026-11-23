@@ -7,11 +7,13 @@
 - **What success looks like:** A successful launch expands Roamly Groups' reach into a new audience segment and positions it as a trusted platform for groups of any size. This way it enhances brand credibility by creating a stronger two-sided marketplace: enhancing customer loyalty and attracting more vetted local experts that want to advertise their experiences in Roamly - giving the platform customers a bigger pool to choose from.
 
 ### Do the Research
-- **Signals of a real opportunity:** - users are trying to coordinate larger group bookings across separate accounts, managing split payments by hand, syncing availability across several people, and aligning preferences for parties the product was never built to handle.
+- **Signals of a real opportunity:** 
+- users are trying to coordinate larger group bookings across separate accounts, managing split payments by hand, syncing availability across several people, and aligning preferences for parties the product was never built to handle.
 - Users are trying to find workarounds but these are clumsy
 - Drop-off on attempts to book large group sessions is high
 
 Signals above suggest that there is market demand for large group bookings and that users are looking for Roamly to be the plafform where they book those.
+
 - **Top 5 possible segments:** - senior groups that travel together and need customized group experiences
 - groups of friends, young adults aged 21 to 35, travelling together
 - travellers that want to book private group experiences
