@@ -50,11 +50,9 @@ Expand
 
 ## 4. The assumption I'm pushing back on
 
-Assumption the AI pushed back on:" weakest input, the target segment groups of friends aged 21-35 traveling together.
+Assumption the AI pushed back on:
 
-Not because it's a bad segment, but because your justification is mostly marketing-centric rather than economics-centric.
-
-Your argument is:
+" weakest input, the target segment groups of friends aged 21-35 traveling together. Not because it's a bad segment, but because your justification is mostly marketing-centric rather than economics-centric. Your argument is:
 
 They're active on social media
 They create word of mouth
@@ -79,9 +77,7 @@ Multi-family vacations
 Student travel
 Corporate retreats
 
-In fact, corporate groups may have 5-10x the booking value and a much greater willingness to pay for coordination features.
-
-What you're really saying is:
+In fact, corporate groups may have 5-10x the booking value and a much greater willingness to pay for coordination features. What you're really saying is:
 
 "This segment is likely easiest to market."
 
@@ -92,126 +88,167 @@ But your assignment is to identify:
 Those are different questions.
 
 
-My push back to the AI response is:  we have data showing that 40% of users attempting large-group bookings and dropping off are aged 21-35, and that they seem to represent the largest share of lost revenue. This makes them the most attractive segment not only from a marketing perspective, but also from a commercial one. While segments such as corporate offsites or bachelor parties may represent a larger overall market, they are less aligned with Roamly's brand and GTM strategy. Roamly has built its reputation around authentic, locally curated experiences that are discovered through travel communities, recommendations, and word of mouth.
+My push back to the AI response is:  we have data showing that 40% of our users attempting large-group bookings and dropping off are aged 21-35, and that they seem to represent the largest share of lost revenue (I made this data up to simulate that scenario). This makes them the most attractive segment not only from a marketing perspective, but also from a commercial one. While segments such as corporate offsites or bachelor parties may represent a larger overall market, they are less aligned with Roamly's brand and GTM strategy. Roamly has built its reputation around authentic, locally curated experiences that are discovered through travel communities, recommendations, and word of mouth.
 
 Young adult friend groups are more likely to seek out these types of experiences, engage in travel communities, and share their experiences with others. As a result, they represent both the largest validated source of lost demand and the segment most closely aligned with Roamly's value proposition and Community-Led Growth motion.p types may be bigger but it would distant Roamly from it svalue prop of providing locally curated experiences only known through word of mouth,
 
 ## 5. V1 GTM strategy one-pager
 
-**Target Segment**
-Primary Segment
 
-Groups of friends aged 21-35 traveling together
+# V1 GTM Strategy One-Pager
 
-This segment should be prioritized because:
+## Target Segment
 
-They account for approximately 40% of large-group booking drop-offs.
-They represent the largest identified source of lost revenue.
-They are highly aligned with Roamly's brand proposition of authentic, locally curated experiences.
-They naturally participate in travel communities and recommendation networks that support Roamly's CLG motion.
-They are particularly likely to value split payments, shared planning, and collaborative booking workflows.
+### Primary Segment
 
-While corporate retreats and other organized groups may represent a larger overall market, they are less aligned with Roamly's positioning and acquisition model.
+**Groups of friends aged 21–35 traveling together**
 
-Value Proposition
+#### Why prioritize them?
 
-Roamly Groups removes the hassle of organizing group travel by enabling travelers to coordinate bookings, split costs, and stay aligned in one place.
+- Account for ~40% of large-group booking drop-offs
+- Represent the largest identified source of lost revenue
+- Strong alignment with Roamly's brand
+- Active in recommendation networks and travel communities
+- Strong fit for split payments and collaborative planning
 
-Success Hypothesis
+**Strategic trade-off**
 
-If Roamly eliminates the coordination and payment friction associated with large-group bookings, then:
+While other segments may represent larger TAM opportunities, they are less aligned with Roamly's positioning and acquisition model.
 
-Fewer users will abandon the booking journey.
-More group experiences will be successfully booked.
-Average booking value will increase.
-Customer loyalty will improve.
-More local experts will list experiences on the platform as group demand grows.
-GTM Motion
-Primary: PLG (Expand)
+---
+
+## Value Proposition
+
+> Roamly Groups removes the hassle of organizing group travel by enabling travelers to coordinate bookings, split costs, and stay aligned in one place.
+
+---
+
+## Success Hypothesis
+
+If Roamly eliminates coordination and payment friction for large-group bookings, then:
+
+- Fewer users will abandon the booking journey
+- More group experiences will be successfully booked
+- Average booking value will increase
+- Customer loyalty will improve
+- More local experts will list experiences on the platform as group demand grows
+
+---
+
+## GTM Motion
+
+### Primary Motion: PLG (Expand)
 
 Demand already exists.
 
 The opportunity is not creating awareness but converting users who are currently unable to complete large-group bookings.
 
-PLG Focus:
+#### Focus Areas
 
-Remove group-booking friction.
-Surface Roamly Groups within existing booking flows.
-Encourage adoption through product discovery and in-app prompts.
-Convert existing drop-off behavior into completed bookings.
-Supporting: CLG (Acquire)
+- Remove group-booking friction
+- Surface Roamly Groups within booking flows
+- Encourage adoption through product discovery and in-app prompts
+- Convert existing drop-off behavior into completed bookings
+
+### Supporting Motion: CLG (Acquire)
 
 Successful group trips create natural advocacy.
 
 Roamly's brand has historically grown through travel recommendations, communities, reviews, and shared experiences.
 
-CLG Focus:
+#### Focus Areas
 
-Turn organizers into advocates.
-Amplify user-generated content.
-Drive referrals from group participants.
-Increase awareness within travel communities.
-Recommended Channel Approach
-PLG Channels (Primary)
+- Turn organizers into advocates
+- Amplify user-generated content
+- Drive referrals from group participants
+- Increase awareness within travel communities
 
-In-product
+---
 
-Large-group booking prompts
-Split-payment callouts
-Dynamic messaging when group size exceeds current limits
-Booking recovery flows targeting historical drop-offs
+## Recommended Channel Approach
 
-CRM
+### PLG Channels
 
-Lifecycle email campaigns to users who abandoned large-group bookings
-Re-engagement campaigns highlighting Roamly Groups capabilities
-CLG Channels (Secondary)
+#### In-Product
 
-Community & Social
+- Large-group booking prompts
+- Split-payment callouts
+- Dynamic messaging when group size exceeds current limits
+- Booking recovery flows targeting historical drop-offs
 
-Travel communities and forums
-Reddit travel communities
-Facebook travel groups
-Instagram and TikTok creator collaborations
-User-generated content campaigns
+#### CRM
 
-Referral Loops
+- Lifecycle email campaigns for abandoned bookings
+- Re-engagement campaigns highlighting Roamly Groups capabilities
 
-Invite participants to bookings
-Referral incentives for organizers
-Shareable itineraries and trip pages
-Success Metrics
-North Star Metric
+### CLG Channels
 
-Large-group booking conversion rate
+#### Community & Social
 
-This directly measures whether Roamly is successfully converting previously lost demand.
+- Travel communities and forums
+- Reddit travel communities
+- Facebook travel groups
+- Instagram creator partnerships
+- TikTok creator partnerships
+- User-generated content campaigns
 
-Supporting Metrics
+#### Referral Loops
 
-PLG (Expand)
+- Participant invitations
+- Referral incentives for organizers
+- Shareable itineraries
+- Trip pages
 
-Large-group booking conversion rate
-Drop-off rate for groups > X travelers
-Number of Roamly Groups bookings
-Average booking value
-Repeat bookings from group organizers
+---
 
-CLG (Acquire)
+## Success Metrics
 
-New users acquired through group invitations or referrals
-Percentage of participants creating Roamly accounts
-Referral-driven bookings
-Social shares and user-generated content volume
-Key Risk to Validate
+### North Star Metric
 
-The largest assumption remains:
+**Large-Group Booking Conversion Rate**
 
-Are coordination, payment, and planning friction the primary drivers of large-group booking drop-off?
+Measures whether Roamly is successfully converting previously lost demand.
 
-During rollout, Roamly should validate whether reducing these frictions materially improves conversion, or whether other factors such as pricing, inventory suitability, or availability are contributing more significantly to abandonment.
+### PLG Metrics (Expand)
 
-Strategic Positioning Statement
+- Large-group booking conversion rate
+- Drop-off rate for groups > X travelers
+- Number of Roamly Groups bookings
+- Average booking value
+- Repeat bookings from organizers
 
-Roamly Groups helps groups of friends discover, coordinate, and book authentic local experiences together, eliminating the friction of group planning while staying true to Roamly's community-driven travel ethos.
+### CLG Metrics (Acquire)
 
+- New users acquired through referrals
+- Participant-to-account conversion rate
+- Referral-driven bookings
+- Social shares
+- User-generated content volume
+
+---
+
+## Key Risk to Validate
+
+### Core Assumption
+
+> Coordination, payment, and planning friction are the primary drivers of large-group booking drop-off.
+
+#### Validation Approach
+
+- Funnel analysis
+- User interviews
+- Experimentation
+- Cohort analysis
+
+#### Alternative Explanations
+
+- Pricing
+- Experience availability
+- Inventory suitability
+- Scheduling constraints
+
+---
+
+## Strategic Positioning Statement
+
+> Roamly Groups helps groups of friends discover, coordinate, and book authentic local experiences together, eliminating the friction of group planning while staying true to Roamly's community-driven travel ethos.
