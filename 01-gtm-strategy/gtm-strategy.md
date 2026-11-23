@@ -95,8 +95,6 @@ Young adult friend groups are more likely to seek out these types of experiences
 ## 5. V1 GTM strategy one-pager
 
 
-# V1 GTM Strategy One-Pager
-
 ## Target Segment
 
 ### Primary Segment
