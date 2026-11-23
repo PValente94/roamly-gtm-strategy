@@ -20,7 +20,7 @@
   - Name - Groups' Favorite; Who's it for - groups that want to book an experience leveraging split payments and booking details like shared itineraries; Rough price: 5% fee on top of local experience advertised price
   
   Best:
-  - Name - Premium; Who's it for - groups that want a semi-automated booking experience, with personalized travel recommendations based on group preferences and planned travel routes, all without losing perks of "Group's favourite"; Rough price: 8% fee on top of local experience advertised price
+  - Name - Premium; Who's it for - groups that want a semi-automated booking experience, with personalized travel recommendations based on group preferences and planned travel routes, all without losing perks of "Groups' favourite"; Rough price: 8% fee on top of local experience advertised price
 
 ## 4. Assumption to test
 
